@@ -219,8 +219,3 @@ Now that you know about all the details of the model, if you want to use it, jus
 The code is written in OOP format, so you can easily modify or extend the **class MMT** to fit cases of more complex situations. You can also try modifying the assumptions such as making it to be a stochastic optimization problem or so on.
 
 Finally, hope this long documentation helps.
-
-# About me 🤓
-- With 10+ years of industry experience, I have thrived in Data Science, Data Governance, IT and Product Management. I have a keen interest and expertise in solving business problems using unique logic and analytics. I bring solutions to the table based on competitive Business Acumen and Human Intelligence.
-- Have a look at my portfolio: [Helping organization level all their Seeds Business arguments using Data🔧 & Technology🔨 | Ex_Zalando | Ex_Freecharge | Ex_Myntra Jabong | Ex_Supercell | Ex_Infosys](https://www.linkedin.com/in/pnchoudhury/)
-- I love talking about #algorithms, #dataanalytics, #datapipelines, #machinelearning, and #artificialintelligence 
